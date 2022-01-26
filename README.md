@@ -1,7 +1,7 @@
 
 
 
-# Hi , I'm Maxime W. I am 18 yo.
+# Hi , I'm Maxime W. I am 19 yo.
 
 - 💡  I like to explore new codage and develop software solutions.
 - 🎓  I'm currently studying in Highschool and close to start studies in Computer Science.
