@@ -15,5 +15,5 @@
   
   [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?MaxDevelo=jasongaylord&langs_count=5&theme=tokyonight)]()
   
-  ![Animation de serpent]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+ 
 
