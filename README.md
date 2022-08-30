@@ -1,11 +1,9 @@
 
 
 
-<p align="center"> 
-  <img src=" https://capsule-render.vercel.app/api?text=HI &animation=fadeIn&type=waving&color=gradient&height=100"/> 
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-#I'm Maxime W. I am 19 yo. 
+# I'm Maxime W. I am 19 yo. 
 
 - 💡  I like to explore new codage and develop software solutions.
 - 🎓  I'm currently studying in Highschool and close to start studies in Computer Science.
