@@ -14,6 +14,7 @@
 name: Maxime Wawrzyniak
 located_in: Strasbourg, France
 current_job: Computer Science Student
+founder: Great-Server.com
 education:
   [
     "General Baccalaureate",
