@@ -2,7 +2,7 @@
 
 
 
-# I'm Maxime W. I am 19 yo. 
+# I'm Maxime W. I am 20 yo. 
 
 - 💡  I like to explore new codage and develop software solutions.
 - 🎓  I'm currently studying in Highschool and close to start studies in Computer Science.
@@ -23,11 +23,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "App Development",
-    "Game Development",
+    "App Development"
   ]
   
-2022 Goals: ["Get better at programming."]
 hobbies: ["Gaming", "Programming"]
 
 ```
