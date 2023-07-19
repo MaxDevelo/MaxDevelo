@@ -6,7 +6,6 @@
 
 - 💡  I like to explore new codage and develop software solutions.
 - 🎓  I'm currently studying in Highschool and close to start studies in Computer Science.
-- 🌱  I'm on track for learning more game developement.
 
 # 👨🏻‍💻 About Me
 
@@ -14,7 +13,6 @@
 name: Maxime Wawrzyniak
 located_in: Strasbourg, France
 current_job: Computer Science Student
-founder: Great-Server.com
 education:
   [
     "General Baccalaureate",
@@ -39,7 +37,7 @@ hobbies: ["Gaming", "Programming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/magento.svg" alt="c" width="45" height="45"/>
   
 </p>
 
