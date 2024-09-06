@@ -6,24 +6,33 @@
 
 # 👨🏻‍💻 About Me
 
-```yaml 
-name: Maxime Wawrzyniak
-located_in: Strasbourg, France
-current_job: Magento Developer
-education:
-  [
-    "General Baccalaureate",
-    "Bachelor of Computer Technology"
-  ]
+```php 
+const MY_LIFE = [
+    'name' => 'Maxime Wawrzyniak',
+    'located_in' => 'Strasbourg, France',
+    'current_job' => 'Magento Developer',
+    'education' => [
+        'General Baccalaureate',
+        'Bachelor of Computer Technology'
+    ],
+    'fields_of_interests' => [
+        'Web Development',
+        'App Development'
+    ],
+    'hobbies' => ['Gaming', 'Programming', 'Gym']
+];
 
-fields_of_interests:
-  [
-    "Web Development",
-    "App Development"
-  ]
-  
-hobbies: ["Gaming", "Programming", "Gym"]
-
+while(true) {
+    foreach (MY_LIFE as $activity => $details) {
+        if (is_array($details)) {
+            echo "$activity: " . implode(', ', $details) . PHP_EOL;
+        } else {
+            echo "$activity: $details" . PHP_EOL;
+        }
+    }
+    echo PHP_EOL;
+    sleep(2);
+}
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
