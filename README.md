@@ -1,4 +1,8 @@
-# I'm Maxime W. I am 21 yo. 
+# I'm Maxime W. I am 22 yo. 
+<a href="#">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd3c3ZqbzJveHFlZnI1YnBhYWE0dGQ1NGtiam5wOWE3YWp5ZnduNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WAxZWu56aYPoA/200.webp" width="100" height="60"/> 
+</a>
+
 [![](https://img.shields.io/badge/-@maximewawrzyniak-%23181717?style=flat-square&logo=github)]([https://github.com/daniaalnadir](https://github.com/MaxDevelo))
 
 - 💡  I like to explore new codage and develop software solutions.
@@ -60,6 +64,11 @@ while(true) {
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="laravel" width="45" height="45"/>
 </p>
 
+## GitHub Stats 
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-p8xswl22v.vercel.app/api?username=MaxDevelo&show_icons=true&count_private=true&hide=none&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxDevelo&theme=tokyonight"/>
+</p>
  
 
